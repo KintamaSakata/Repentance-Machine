@@ -44,3 +44,6 @@ awal :
     }
     return 0;
 }
+
+//Repentance Machine (ver 0,5) (ID)
+//Changes clearner int nothing much
