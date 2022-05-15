@@ -45,5 +45,7 @@ awal :
     return 0;
 }
 
-//Repentance Machine (ver 0,5) (ID)
-//Changes clearner int nothing much
+/*
+Repentance Machine (ver 0,0) (ID) = Raw
+Repentance Machine (ver 0,5) (ID) = clearner "int" nothing much
+*\
