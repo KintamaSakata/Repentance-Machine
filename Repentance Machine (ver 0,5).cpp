@@ -46,6 +46,6 @@ awal :
 }
 
 /*
-Repentance Machine (ver 0,0) (ID) = Raw
-Repentance Machine (ver 0,5) (ID) = clearner "int" nothing much
+Repentance Machine (ver 0,0) (ID) = Raw (13 may 2022)
+Repentance Machine (ver 0,5) (ID) = clearner "int" nothing much (14 may 2022)
 *\
