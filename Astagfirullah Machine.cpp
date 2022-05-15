@@ -44,3 +44,5 @@ awal :
         goto awal;
     return 0;
 }
+
+//Astagfirullah Machine (ver 0,0) (ID)
