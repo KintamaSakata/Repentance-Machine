@@ -44,3 +44,5 @@ point :
         goto point;
     return 0;
 }
+
+//Repentance Machine (ver 0,0) (eng)
